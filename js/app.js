@@ -45,4 +45,4 @@ let sortSruffBySalary = (ar, howToSort) => {
 }
 
 let sortSort=prompt('How to sort (asc or desc): ');
-sortSruffBySalary(getArrayOfRandomObjects(10), sortSort);esc'
+sortSruffBySalary(getArrayOfRandomObjects(10), sortSort);
